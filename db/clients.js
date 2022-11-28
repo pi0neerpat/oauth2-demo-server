@@ -1,7 +1,7 @@
 'use strict';
 
 const clients = [
-  { id: '1', name: 'Samplr', clientId: '123', clientSecret: 'ssh-secret', isTrusted: true },
+  { id: '1', name: 'Samplr', clientId: '123', clientSecret: 'ssh-secret', isTrusted: false },
   { id: '2', name: 'Samplr2', clientId: 'xyz123', clientSecret: 'ssh-password', isTrusted: true },
 ];
 
